@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/操作系统引论.md",
-                "mode": "preview",
+                "file": "操作系统/进程与线程.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/操作系统引论.md",
+                "file": "操作系统/进程与线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/操作系统引论.md",
+                "file": "操作系统/进程与线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/操作系统引论.md"
+                "file": "操作系统/进程与线程.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   "active": "597efa71b8205b4d",
   "lastOpenFiles": [
     "操作系统/操作系统引论.md",
+    "操作系统/进程与线程.md",
     "408/LICENSE.md",
     "408/README.md",
     "408",

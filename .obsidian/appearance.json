@@ -3,5 +3,6 @@
   "cssTheme": "Catppuccin",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 16
 }
