@@ -11,8 +11,12 @@
             "id": "597efa71b8205b4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/操作系统引论.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "操作系统/操作系统引论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "操作系统/操作系统引论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "操作系统/操作系统引论.md"
+              }
             }
           }
         ]
@@ -150,6 +158,7 @@
   },
   "active": "597efa71b8205b4d",
   "lastOpenFiles": [
+    "操作系统/操作系统引论.md",
     "408/LICENSE.md",
     "408/README.md",
     "408",
