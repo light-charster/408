@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "操作系统/操作系统引论.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "bebe43053f88971b",
+            "id": "75fb384ee0bf7105",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260,
+    "collapsed": true
   },
   "right": {
     "id": "e5bb8eaa2af1adb9",
@@ -138,12 +139,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 460
   },
   "left-ribbon": {
     "hiddenItems": {
